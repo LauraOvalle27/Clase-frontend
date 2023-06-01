@@ -1,0 +1,90 @@
+#barra11{
+    background-color: red;
+}
+#barra1{
+    background-color: red;
+}
+.shadow{
+    font-family: 'Times New Roman', Times, serif;
+}
+.titulo{
+    font-family: 'Times New Roman', Times, serif;
+}
+#barra3{
+    text-align: center;
+}
+#texto2{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+#linea{
+    background-color: rgb(226, 211, 43);
+    align-items: center;
+}
+#imagen4{
+    width: 20rem;
+    height: 20rem;
+}
+
+#grey{
+    background-color: rgb(164, 164, 164)
+}
+#texto4{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#formulario{
+    background-color:  rgb(164, 164, 164);
+    width: 30rem;
+    align-items: center;
+
+}
+.espacio-grande {
+    width: 100%;
+    margin-bottom: 20px; /* Espacio adicional entre el espacio grande y el botón */
+  }
+  
+.centrado {
+    text-align: center;
+}
+.btn{
+    background-color: rgb(226, 211, 43);
+    width: 10rem;
+}
+#barra7{
+    background-color: red;
+}
+#instagram{
+    width: 2rem;
+}
+#imagen1{
+    width: 21rem;
+    height: 20rem;
+}
+#shadow{
+    width: 30rem;
+}
+#imagen2{
+    width: 28rem;
+    height: 20rem;
+}
+#imagen3{
+    width: 24rem;
+    height: 20rem;
+}
+#game{
+    display: flex;
+}
+#horario{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;;
+}
+
+#texto4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#contacto{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#pumas{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
